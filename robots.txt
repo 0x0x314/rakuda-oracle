@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://0x0x314.github.io/rakuda-oracle/sitemap.xml
